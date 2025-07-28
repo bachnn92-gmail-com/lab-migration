@@ -1,0 +1,7 @@
+gh --version
+
+gh extension install github/gh-gei
+gh extension install github/gh-ado2gh
+gh extension install github/gh-bbs2gh
+gh auth login
+gh auth status
